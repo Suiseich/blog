@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hi, my name is Mickheil Aaron D. Tayag, and I am a student from the University of the Assumption. I've loved playing video games since I was a child, particularly MMORPGs and Souls games like Elden Ring. I also enjoy listening to video game OSTs and J-pop, with an artist like Hoshimachi Suisei being one of my favorites. My favorite food is lasagna.</p>
         <p>
-          I see myself becoming an IT Support Specialist because it's a profession I'm truly passionate about. Having grown up loving computers, I really want to help people diagnose and fix problems with their desktops.
+          I see myself in 5 years becoming an IT Support Specialist because it's a profession I'm truly passionate about. Having grown up loving computers, I really want to help people diagnose and fix problems with their desktops.
         </p>
       </section>
     </Layout>
